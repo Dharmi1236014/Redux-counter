@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.counter-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter-wrap p{
+    font-size: 24px;
+}
+
+.counter-wrap button {
+    background-color: #004aad;
+    color: gainsboro;
+    border: none;
+    padding: 10px;
+}
+
+.close{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.close button{
+    border: none;
+    background-color: lavender;
+    padding: 10px;
+    border-radius: 4px;
+}
